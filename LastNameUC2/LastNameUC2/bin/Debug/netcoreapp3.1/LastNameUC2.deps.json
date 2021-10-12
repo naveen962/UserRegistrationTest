@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LastNameUC2/1.0.0": {
+        "runtime": {
+          "LastNameUC2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LastNameUC2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

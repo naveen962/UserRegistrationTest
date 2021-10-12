@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.exe
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.deps.json
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.runtimeconfig.json
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.dll
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\bin\Debug\netcoreapp3.1\EmailValidationSampleTestCase.pdb
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.dll
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.pdb
+C:\Users\INDIA\source\repos\EmailValidationSampleTestCaseUC9\EmailValidationSampleTestCase\obj\Debug\netcoreapp3.1\EmailValidationSampleTestCase.genruntimeconfig.cache

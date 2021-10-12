@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.exe
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.deps.json
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.runtimeconfig.json
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.dll
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\bin\Debug\netcoreapp3.1\EmailUC3.pdb
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.dll
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.pdb
+C:\Users\INDIA\source\repos\EmailUC3\EmailUC3\obj\Debug\netcoreapp3.1\EmailUC3.genruntimeconfig.cache

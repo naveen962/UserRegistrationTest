@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.exe
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.deps.json
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.runtimeconfig.json
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.dll
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\bin\Debug\netcoreapp3.1\FirstNameUC1.pdb
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.dll
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.pdb
+C:\Users\INDIA\source\repos\FirstNameUC1\FirstNameUC1\obj\Debug\netcoreapp3.1\FirstNameUC1.genruntimeconfig.cache
